@@ -1,4 +1,4 @@
-# free-for.bolotova
+# free-for.kate.bolotova
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
@@ -22,7 +22,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [BaaS](#baas)
    * [Low-code Platform](#low-code-platform)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI and CD (i do not know what it is)](#ci-and-cd)
+   * [CI and CD are cool, but i do not know what it is](#ci-and-cd)
    * [CMS](#cms)
    * [Code Generation](#code-generation)
    * [Code Quality](#code-quality)
