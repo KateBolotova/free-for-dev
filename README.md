@@ -22,7 +22,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [BaaS](#baas)
    * [Low-code Platform](#low-code-platform)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI and CD](#ci-and-cd)
+   * [CI and CD are cool words!](#ci-and-cd)
    * [CMS](#cms)
    * [Code Generation](#code-generation)
    * [Code Quality](#code-quality)
